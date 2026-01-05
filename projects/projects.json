@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ishguzar.az",
+    "desc": "Built isguzar.az, a full-featured job and service marketplace enabling user registration, listing management, opportunity applications, and real-time messaging.",
+    "image": "isguzar",
+    "url": "https://isguzar.az/az"
+  },
+  {
+    "name": "Ajerbaijan Judo Federation",
+    "desc": "Developed the official Azerbaijan Judo Federation website with responsive design, dynamic content sections, and structured presentation of news, events, athletes, and competition results.",
+    "image": "ajf",
+    "url": "#"
+  },
+  {
+    "name": "Hertz Azerbaijan",
+    "desc": "Built a rent-a-car website presenting car rentals, airport transfers, regional transfers, chauffeur services, and tours with a responsive and intuitive design.",
+    "image": "hertz",
+    "url": "https://hertz.org.az"
+  },
+  {
+    "name": "Ashina Motors",
+    "desc": "An automotive parts website showcasing a wide range of car spare parts with a clean interface, easy navigation, and fully responsive design.",
+    "image": "ashina",
+    "url": "#"
+  },
+  {
+    "name": "Furniture",
+    "desc": "Built a modern furniture e-commerce website showcasing products, categories, and promotions with a clean UI, smooth navigation, and a fully responsive design optimized for all devices.",
+    "image": "furniture",
+    "url": "https://furniturehouse.net"
+  },
+  {
+    "name": "Student & Alumni Careers",
+    "desc": "Built an educational institution website presenting faculty information, news, events, and student resources with a structured layout and responsive design for accessibility across devices.",
+    "image": "karyera",
+    "url": "#"
+  }
+]
